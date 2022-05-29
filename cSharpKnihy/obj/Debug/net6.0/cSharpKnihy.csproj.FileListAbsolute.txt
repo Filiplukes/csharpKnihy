@@ -1,0 +1,15 @@
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\bin\Debug\net6.0\cSharpKnihy.exe
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\bin\Debug\net6.0\cSharpKnihy.deps.json
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\bin\Debug\net6.0\cSharpKnihy.runtimeconfig.json
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\bin\Debug\net6.0\cSharpKnihy.dll
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\bin\Debug\net6.0\cSharpKnihy.pdb
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\obj\Debug\net6.0\cSharpKnihy.csproj.AssemblyReference.cache
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\obj\Debug\net6.0\cSharpKnihy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\obj\Debug\net6.0\cSharpKnihy.AssemblyInfoInputs.cache
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\obj\Debug\net6.0\cSharpKnihy.AssemblyInfo.cs
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\obj\Debug\net6.0\cSharpKnihy.csproj.CoreCompileInputs.cache
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\obj\Debug\net6.0\cSharpKnihy.dll
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\obj\Debug\net6.0\refint\cSharpKnihy.dll
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\obj\Debug\net6.0\cSharpKnihy.pdb
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\obj\Debug\net6.0\cSharpKnihy.genruntimeconfig.cache
+C:\Users\Nikol\source\repos\cSharpKnihy\cSharpKnihy\obj\Debug\net6.0\ref\cSharpKnihy.dll
